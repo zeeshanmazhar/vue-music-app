@@ -1,5 +1,8 @@
 # Vue Music App
 
+Small Vue app to play music.
+
+
 ## Project setup
 ```
 npm install
